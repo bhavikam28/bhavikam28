@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔭 I’m currently working on: [EV AI Advisor](https://github.com/bhavikam28/ev-ai-advisor)
 - 👨‍💻 All of my projects: [github.com/bhavikam28](https://github.com/bhavikam28)
@@ -17,7 +17,7 @@
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
 ![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Professional-%230073A6?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20–%20Specialty-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/bhavika-mantri" target="_blank">
@@ -40,7 +40,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikam28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />

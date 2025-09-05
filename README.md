@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Automation is my love language 💻**
 
-  ### 🎓 Certifications
+### Certifications
 ![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/Solutions%20Architect%20–%20Professional-%23FF9900?logo=amazon-aws&logoColor=white&style=flat)
 ![AWS Certified Security – Specialty](https://img.shields.io/badge/Security%20–%20Specialty-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/Solutions%20Architect%20–%20Associate-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)

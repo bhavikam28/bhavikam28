@@ -9,9 +9,17 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bhavi.28.mantri](https://medium.com/@bhavi.28.mantri)
 
-- 💬 Ask me about **AWS, Terraform, GitHub Actions, Python, Linux, CI/CD, Cloud Security**
+- 💬 Ask me about **AWS, Terraform, GitHub Actions, Python, Linux, CI/CD, Cloud Security, GenAI**
 
 - ⚡ Fun fact **Automation is my love language 💻**
+
+  ### 🎓 Certifications
+![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/Solutions%20Architect%20–%20Professional-%23FF9900?logo=amazon-aws&logoColor=white&style=flat)
+![AWS Certified Security – Specialty](https://img.shields.io/badge/Security%20–%20Specialty-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/Solutions%20Architect%20–%20Associate-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-%235835CC?logo=terraform&logoColor=white&style=flat)
+![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA%20Certified-%23E60000?logo=isecom&logoColor=white&style=flat)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavika Mantri</h1>
-<h3 align="center">Cloud Security & DevOps Enthusiast 🌩️ | 3x AWS Certified 🏅 | Certified Information Systems Auditor (CISA) 🛡️</h3>
+<h3 align="center">Cloud Engineer | DevOps, Security & GenAI | 3x AWS Certified | Building Scalable & Secure Cloud Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikam28&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikam28" /> </p>
 

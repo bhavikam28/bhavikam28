@@ -19,12 +19,11 @@
 
 ### Certifications
 
-![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Professional-%230073A6?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20–%20Specialty-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
-![CISA Certified](https://img.shields.io/badge/CISA%20Certified-%23E60000?style=for-the-badge&logo=isecom&logoColor=white)
-
+![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Professional-%230073A6?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20–%20Specialty-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/Certified%20Information%20Systems%20Auditor%20(CISA)-%23E60000?style=for-the-badge&logo=isecom&logoColor=white)
 ---
 
 ### Connect with me:
